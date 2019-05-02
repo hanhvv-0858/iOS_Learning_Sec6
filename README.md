@@ -2,6 +2,7 @@
 
 ## Bài 1 - Programming in Swift
 https://github.com/raywenderlich/swift-style-guide
+
 https://learnappmaking.com/learn-ios-development-how-to/
 1. Swift playground
 2. Variables
