@@ -1,7 +1,7 @@
 # Sharing Plan & Topics 
 
 ## Bài 1 - Programming in Swift
-
+https://github.com/raywenderlich/swift-style-guide
 https://learnappmaking.com/learn-ios-development-how-to/
 1. Swift playground
 2. Variables
@@ -16,7 +16,6 @@ https://learnappmaking.com/object-oriented-programming-oop-swift-introduction/
 2. Properties And Functions
 3. Subclassing And Inheritance
 5. Structures
-
 6. Classes 
 
 
@@ -28,10 +27,15 @@ https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPho
 3. Background Execution 
 4. Handle app state 
 
-
-## Bài 3 - UI & Auto layout 
+## Bài 3 - ViewController and UI elements 
 https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW1
 
+1. Working with view controllers: life-cycle
+2. UI elements such as UILabel, UIButton and UIImage
+3. Storyboard 
+4. Xib
+
+## Bài 4 - Auto layout 
 1. Stack Views
 - Autoresizing
 - Stack Views 
@@ -42,20 +46,28 @@ https://developer.apple.com/library/archive/referencelibrary/GettingStarted/Deve
 - Adding new constraints 
 - Editing Constraints 
 
-3. Storyboard 
-4. Xib 
-5. UI 
-
-## Bài 4 - TableView , Collection View 
+## Bài 5 - TableView , Collection View 
 https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW1
 1. Tableview
 2. Collection View
 
-## Bài 5 - Scroll View
+## Bài 6 - Scroll View
+https://www.raywenderlich.com/9223-scroll-view-school
 
-## Bài 6 - Networking and JSON 
+## Bài 7 - Navigation and UINavigationController
 
-## Bài 7 - Animations 
+## Bài 8 - Sending and receiving data:  NotificationCenter, Delegate, Clouse 
 
-## Bài 8 - Debugging with Xcode 
+## Bài 9 - Networking and JSON 
+
+## Bài 10 - Animations 
+https://www.raywenderlich.com/9051-beginning-ios-animations
+
+1. Animation Contraints 
+2. Animation View Properties 
+3. View Controller Transitions 
+
+## Bài 11 - Protocol-Oriented Programming (POP)
+
+## Bài 12 - Debugging with Xcode 
 
