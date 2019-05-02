@@ -58,6 +58,7 @@ https://www.raywenderlich.com/9223-scroll-view-school
 ## Bài 8 - Navigation and UINavigationController
 
 ## Bài 9 - Sending and receiving data:  NotificationCenter, Delegate, Clouse 
+https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
 
 ## Bài 10 - Networking and JSON 
 
