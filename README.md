@@ -20,7 +20,7 @@ https://learnappmaking.com/object-oriented-programming-oop-swift-introduction/
 6. Classes 
 
 
-## Bài 2 - App Programming Guide
+## Bài 3 - App Programming Guide
 https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH1-SW1
 
 1. App Behaviors 
@@ -28,7 +28,7 @@ https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPho
 3. Background Execution 
 4. Handle app state 
 
-## Bài 3 - ViewController and UI elements 
+## Bài 4 - ViewController and UI elements 
 https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW1
 
 1. Working with view controllers: life-cycle
@@ -36,7 +36,7 @@ https://developer.apple.com/library/archive/referencelibrary/GettingStarted/Deve
 3. Storyboard 
 4. Xib
 
-## Bài 4 - Auto layout 
+## Bài 5 - Auto layout 
 1. Stack Views
 - Autoresizing
 - Stack Views 
@@ -47,28 +47,28 @@ https://developer.apple.com/library/archive/referencelibrary/GettingStarted/Deve
 - Adding new constraints 
 - Editing Constraints 
 
-## Bài 5 - TableView , Collection View 
+## Bài 6 - TableView , Collection View 
 https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW1
 1. Tableview
 2. Collection View
 
-## Bài 6 - Scroll View
+## Bài 7 - Scroll View
 https://www.raywenderlich.com/9223-scroll-view-school
 
-## Bài 7 - Navigation and UINavigationController
+## Bài 8 - Navigation and UINavigationController
 
-## Bài 8 - Sending and receiving data:  NotificationCenter, Delegate, Clouse 
+## Bài 9 - Sending and receiving data:  NotificationCenter, Delegate, Clouse 
 
-## Bài 9 - Networking and JSON 
+## Bài 10 - Networking and JSON 
 
-## Bài 10 - Animations 
+## Bài 11 - Animations 
 https://www.raywenderlich.com/9051-beginning-ios-animations
 
 1. Animation Contraints 
 2. Animation View Properties 
 3. View Controller Transitions 
 
-## Bài 11 - Protocol-Oriented Programming (POP)
+## Bài 12 - Protocol-Oriented Programming (POP)
 
-## Bài 12 - Debugging with Xcode 
+## Bài 13 - Debugging with Xcode 
 
