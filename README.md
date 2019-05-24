@@ -21,10 +21,11 @@ https://learnappmaking.com/object-oriented-programming-oop-swift-introduction/
 
 ## Bài 3 - Protocol-Oriented Programming (POP)
 https://docs.swift.org/swift-book/LanguageGuide/Protocols.html <br>
+https://docs.swift.org/swift-book/LanguageGuide/Extensions.html <br>
 https://techtalk.vn/swift-protocol-oriented-programming.html <br>
 https://www.raywenderlich.com/814-introducing-protocol-oriented-programming-in-swift-3
 1. Protocols
-2. Protocol Extension
+2. Extension
 
 
 ## Bài 4 - App Programming Guide
