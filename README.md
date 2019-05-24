@@ -20,7 +20,7 @@ https://learnappmaking.com/object-oriented-programming-oop-swift-introduction/
 6. Classes 
 
 ## Bài 3 - Protocol-Oriented Programming (POP)
-https://techtalk.vn/swift-protocol-oriented-programming.html
+https://techtalk.vn/swift-protocol-oriented-programming.html <br>
 https://www.raywenderlich.com/814-introducing-protocol-oriented-programming-in-swift-3
 1. Protocols
 2. Protocol Extension
