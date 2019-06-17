@@ -52,10 +52,13 @@ https://developer.apple.com/library/archive/referencelibrary/GettingStarted/Deve
 1. Tableview
 2. Collection View
 
-## Bài 7 - Scroll View
+## Bài 7 - Navigation and UINavigationController
+- https://developer.apple.com/documentation/uikit/uinavigationcontroller
+- https://developer.apple.com/documentation/uikit/uitabbarcontroller
+
+## Bài 8 - Scroll View
 https://www.raywenderlich.com/9223-scroll-view-school
 
-## Bài 8 - Navigation and UINavigationController
 
 ## Bài 9 - Sending and receiving data:  NotificationCenter, Delegate, Clouse 
 https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/
